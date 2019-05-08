@@ -1,2 +1,101 @@
-/* hrhrhrr */
+/* OPMAAK HELE WEBSITE */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #444b8e;
+}
+/* EINDE OPMAAK HELE WEBSITE */
+
+/* BODY GEHELE WEBSITE */
+body {
+    background-color: #ead7c1;
+    font-family: Segoe UI, Myriad Pro, sans-serif;
+}
+/* EINDE BODY GEHELE WEBSITE */
+
+
+main {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 2em;
+}
+
+.mainheader {
+    background-color: white;
+    padding: 1em;
+    text-align: right;
+}
+
+img{
+    width: 10rem;
+    margin-top: 2em;
+    object-fit: contain;
+}
+
+nav > a {
+    background-color: white;
+    background-image: url("../img/favoriet.png");
+    background-repeat: no-repeat;
+    background-size: 2em;
+    padding: 1em;
+}
+
+article>button {
+    background-color: white;
+    background-image: url("../img/favoriet.png");
+    position: absolute;
+    margin-top: -24.8em;
+    margin-left: 12.3em;
+    width: 3.5em;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    height: 2.5em;
+}
+h1 {
+    width: 100%;
+    font-size: 2rem;
+    padding-left: 0.5em;
+    margin-top: 0.5em;
+}
+
+
+
+h2 {
+    font-size: 1.2em;
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+p {
+    position: absolute;
+    font-size: 0.8em;
+    padding: 0.5em;
+    margin-top: 0.5em;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 100%;
+}
+
+article {
+    position: relative;
+    margin-top: 1em;
+    padding: 0 1em;
+    width: 1fr;
+
+}
+
+.hartje2 {
+    background-image: url("../img/hartgevuld.jpg");
+    transition: 0.8s;
+}
 
