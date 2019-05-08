@@ -1,41 +1,28 @@
-//Like een verhaal
+/*jslint browser: true, devel: true, eqeq: true, plusplus: true, sloppy: true, vars: true, white: true*/
+/*eslint-env browser*/
+/*eslint 'no-console': 0*/
+
 
 // Roep de button aan waarvan ik de class wil veranderen
 var hartje = document.querySelectorAll('article > button');
+var nummers = document.querySelector('#aantalHartjes');
+var aantalHartjes = 0;
+
+function hoeveelHartjeszijner() {
+
+    aantalHartjes = document.querySelectorAll('.hartje2').length;
+    nummers.textContent = ' (' + aantalHartjes + ')';
+}
 
 //Verander alle Classes van de button
 for (var i = 0; i < hartje.length; i++) {
-    hartje[i].addEventListener("click", function() {  this.classList.toggle('hartje2');
+    hartje[i].addEventListener("click", function () {
+        this.classList.toggle('hartje2');
+    hoeveelHartjeszijner();
     });
+
 }
 
 
-var nav = document.querySelector('.heartnav');
-var div = document.querySelectorAll('.heartdiv');
-console.log('div', div);
-
-var counter = 0;
 
 
-
-function groeiNavDiv() {
-    nav.classList.toggle('groeinav');
-    this.classList.toggle('active');
-    if (this.classList.contains('active')){
-        // console.log(this.classList.contains('active'));
-        counter++;
-    } else {
-        counter--;
-    }
-
-    console.log('counter', counter);
-}
-
-// div.addEventListener('click', function(){
-//         groeiNavDiv(this)
-//     });
-
-
-for (i=0; i<div.length; i++) {
-    div[i].addEventListener('click', groeiNavDiv);
-    }

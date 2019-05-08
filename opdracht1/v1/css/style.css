@@ -41,6 +41,8 @@ nav > a {
     background-repeat: no-repeat;
     background-size: 2em;
     padding: 1em;
+    text-decoration: none;
+    padding-left: 2.5em;
 }
 
 article>button {
@@ -53,16 +55,15 @@ article>button {
     background-color: transparent;
     background-repeat: no-repeat;
     background-size: contain;
-
     height: 2.5em;
 }
+
 h1 {
     width: 100%;
     font-size: 2rem;
     padding-left: 0.5em;
     margin-top: 0.5em;
 }
-
 
 
 h2 {
@@ -91,7 +92,6 @@ article {
     margin-top: 1em;
     padding: 0 1em;
     width: 1fr;
-
 }
 
 .hartje2 {
