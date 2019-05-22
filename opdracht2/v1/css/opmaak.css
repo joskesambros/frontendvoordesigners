@@ -1,0 +1,54 @@
+img {
+    position: absolute;
+    width: 40rem;
+    margin-left: 25em;
+    object-fit: contain;
+}
+
+body {
+    background-color: #5B7C2B;
+}
+
+.brilletje {
+    position: relative;
+    width: 9.8em;
+    margin-left: 31.5em;
+    margin-top: 4.6em;
+}
+
+div:first-child {
+    position: absolute;
+}
+div>.brilletje:hover{
+    transition: 2s;
+    transform: translate(1em) translateY(-3em);
+}
+
+.brilletje:hover + .oog {
+    transition-duration: 1s;
+    display: block;
+    box-shadow: 47px 10px 22px 29px rgba(245,0,0,1);
+}
+
+.oog, .oog2 {
+    position:absolute;
+    background-color: red;
+    width: 1em;
+    border: 10em;
+    text-indent: -666em;
+    border-radius: 50%;
+    margin-left: 25em;
+    display: none;
+}
+
+.oog {
+    margin-left: 39em;
+    margin-top: -6.4em;
+}
+
+.oog2 {
+    margin-left: 36em;
+    margin-top: .9em;
+}
+
+VOLGENDE KEER MOET IK ERVOOR ZORGEN DAT DIE OOGJES ROOD WORDEN DOOR OP SPATIE TE KLIKKEN.  e.keyCode == 32
