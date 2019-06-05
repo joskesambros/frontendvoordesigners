@@ -25,7 +25,7 @@ div>.brilletje:hover{
 }
 
 .brilletje:hover + .oog {
-    transition-duration: 1s;
+    transition: 2s;
     display: block;
     box-shadow: 47px 10px 22px 29px rgba(245,0,0,1);
 }
@@ -51,4 +51,10 @@ div>.brilletje:hover{
     margin-top: .9em;
 }
 
+.brilletj2{
+     transition: 2s;
+    display: block;
+    box-shadow: 47px 10px 22px 29px rgba(245,0,0,1);
+
+}
 VOLGENDE KEER MOET IK ERVOOR ZORGEN DAT DIE OOGJES ROOD WORDEN DOOR OP SPATIE TE KLIKKEN.  e.keyCode == 32
