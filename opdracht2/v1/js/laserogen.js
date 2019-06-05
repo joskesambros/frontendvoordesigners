@@ -6,7 +6,8 @@ document.onkeypress = function (e) {
     console.log(e.keyCode);
     if (e.keyCode === 108) {
 
-        bril.classList.toggle('oog');
+        //document.bril.classList.toggle('oog');
+        document.body.style.backgroundColor = "blue";
         console.log('LASERS!!');
     }
 }
