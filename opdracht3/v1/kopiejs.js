@@ -3,17 +3,15 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    color: white;
 }
 /* EINDE OPMAAK HELE WEBSITE */
 
 /* BODY GEHELE WEBSITE */
 body {
-    background-color: black;
+    background-color: #f9f4e6;
     font-family: Segoe UI, Myriad Pro, sans-serif;
 }
 /* EINDE BODY GEHELE WEBSITE */
-
 
 main {
     align-items: center;
@@ -24,25 +22,36 @@ main {
 }
 
 img{
-    width: 15rem;
-    margin-top: 1em;
+    width: 10rem;
+    margin-top: 2em;
     object-fit: contain;
 }
 
 h1 {
-    position: relative;
-    margin-top: 3em;
+    position: absolute;
     width: 100%;
-    font-size: 1.2rem;
-    text-align: center;
+    font-size:2rem;
+    padding-left: 0.2em;
+    margin-top: 0.5em;
+    color: #365367;
 }
 
 
+h2 {
+    font-size: 1.2em;
+    margin-top: 0.5em;
+    text-align: center;
+    color:#f494ab
+}
+
 p {
     position: absolute;
-    font-size: 0.8em;
+    font-size: 0.5em;
     padding: 0.5em;
-    margin-top: 0.5em;
+    margin-top: 20em;
+    color:#f494ab;
+    background-color: white;
+    max-width: 80%;
 }
 
 section {
@@ -60,20 +69,8 @@ article {
     width: 1fr;
 }
 
-p:hover{
-    opacity: 100;
-}
-
-a {
-    color: blue;
-    text-decoration: none;
-    margin-left: -11em;
-    text-align: center;
-}
-
-/*
 img:hover {
     transition: 2s;
     width: 12rem;
 }
-*/
+

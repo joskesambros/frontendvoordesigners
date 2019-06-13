@@ -3,6 +3,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    color: #444b8e;
 }
 /* EINDE OPMAAK HELE WEBSITE */
 
@@ -22,11 +23,11 @@ main {
     padding: 0 2em;
 }
 
-h1 {
-    color: #98b6ec;
+.mainheader {
+    background-color: white;
+    padding: 1em;
+    text-align: right;
 }
-
-
 
 img{
     width: 10rem;
