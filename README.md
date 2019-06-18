@@ -6,9 +6,9 @@ Dit is de [online url](https://koopreynders.github.io/frontendvoordesigners/) me
 
 Het vak bestaat uit 3 opdrachten:
 
-1. [Opdracht 1](opdracht1/)
-2. [Opdracht 2](opdracht2/)
-3. [Opdracht 3](opdracht3/)
+1. [Opdracht 1](https://joskesambros.github.io/frontendvoordesigners/opdracht1/v1/)
+2. [Opdracht 2](https://joskesambros.github.io/frontendvoordesigners/opdracht2/v1/)
+3. [Opdracht 3](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v1/)
 
 
 ---
