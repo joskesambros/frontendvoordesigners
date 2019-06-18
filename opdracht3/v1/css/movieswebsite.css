@@ -5,6 +5,7 @@
     padding: 0;
     color: white;
 }
+
 /* EINDE OPMAAK HELE WEBSITE */
 
 /* BODY GEHELE WEBSITE */
@@ -12,22 +13,8 @@ body {
     background-color: black;
     font-family: Segoe UI, Myriad Pro, sans-serif;
 }
+
 /* EINDE BODY GEHELE WEBSITE */
-
-
-main {
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 0 2em;
-}
-
-img{
-    width: 15rem;
-    margin-top: 1em;
-    object-fit: contain;
-}
 
 h1 {
     position: relative;
@@ -37,12 +24,46 @@ h1 {
     text-align: center;
 }
 
+main {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 2em;
+}
 
-p {
-    position: absolute;
-    font-size: 0.8em;
-    padding: 0.5em;
-    margin-top: 0.5em;
+.loader {
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    display: flex;
+    justify-content: center;
+}
+
+.loader > img {
+    width: 20em;
+}
+
+.loader.hidden {
+    animation: fadeOut 1s;
+    animation-fill-mode: forwards;
+    animation-duration: 2s;
+}
+
+@keyframes fadeOut {
+    100% {
+        opacity: 50%;
+        visibility: hidden;
+    }
+}
+
+img {
+    width: 15rem;
+    margin-top: 1em;
+    object-fit: contain;
 }
 
 section {
@@ -54,26 +75,23 @@ section {
 }
 
 article {
-    position: relative;
     margin-top: 1em;
     padding: 0 1em;
     width: 1fr;
 }
 
-p:hover{
-    opacity: 100;
-}
-
 a {
-    color: blue;
-    text-decoration: none;
+    position: absolute;
+    color: deepskyblue;
     margin-left: -11em;
+    margin-top: 24em;
     text-align: center;
 }
 
-/*
-img:hover {
-    transition: 2s;
-    width: 12rem;
+/* WERKT ALLEEN ALS DIV AANSTAAT */
+p {
+    position: absolute;
+    font-size: 0.8em;
+    padding: 0.5em;
+    margin-top: 0.5em;
 }
-*/
