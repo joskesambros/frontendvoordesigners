@@ -21,4 +21,4 @@ Deze heeft een loading state, blank state en een betere opmaak.
 
 3. [Versie 3](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v3/)
 
-![Testpersoon](testpersoon.jpeg"Testpersoon")
+![Testpersoon](testpersoon.jpg"Testpersoon")
