@@ -32,5 +32,6 @@ Mijn uiteindelijke versie heeft een korte uitleg over de film en als je op de kn
 
 3. [Versie 3](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v3/)
 
-![Testpersoon](https://raw.githubusercontent.com/joskesambros/frontendvoordesigners/opdracht3/v3/testpersoon.jpeg)
+![Testpersoon]
+![Testpersoon](/joskesambros/frontendvoordesigners/opdracht3/v3/testpersoon.jpeg)
 
