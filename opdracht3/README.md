@@ -23,6 +23,6 @@ Mijn uiteindelijke versie heeft een korte uitleg over de film en als je op de kn
 
 3. [Versie 3](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v3/)
 
-![Testpersoon](testpersoon.jpg"Testpersoon")
-
+![Testpersoon](opdracht3/v3/testpersoon.jpg"Testpersoon")
+(opdracht3/v3/testpersoon.jpg)
 <img src="joskesambros/frontendvoordesigners/opdracht3/v3/testpersoon.jpg" alt="test">
