@@ -14,7 +14,7 @@ Hieronder zijn mijn eerste 2 versies te zien:
 1. [Versie 1](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v1/)
 2. [Versie 2](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v1/Uiteindelijke)
 
-![Testpersoon](testpersoon.jpeg"testpersoon")
+![Testpersoon](testpersoon.jpeg "testpersoon")
 
 Nadat ik te horen kreeg dat ik een onvoldoende had omdat ik niet getest had en de vormgeving er nog niet goed genoeg uit zag ben ik een derde versie gaan maken. Hier heb ik ook tests gedaan op mijn moeder en mijn zusje. Daar kwam het volgende uit:
 
