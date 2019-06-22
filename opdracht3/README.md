@@ -22,7 +22,7 @@ Deze heeft een loading state, blank state en een betere opmaak.
 
 3. [Versie 3](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v3/)
 
-![Testpersoon](testpersoon.jpg"Testpersoon")
+![Testpersoon](testpersoon.jpeg"Testpersoon")
 
 Nadat ik te horen kreeg dat ik een onvoldoende had omdat ik niet getest had en de vormgeving er nog niet goed genoeg uit zag ben ik een derde versie gaan maken. Hier heb ik ook tests gedaan op mijn moeder en mijn zusje. Daar kwam het volgende uit:
 
