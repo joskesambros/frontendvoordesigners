@@ -15,6 +15,7 @@ Hieronder zijn mijn eerste 2 versies te zien:
 2. [Versie 2](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v1/Uiteindelijke)
 
 
+<<<<<<< HEAD
 Nadat ik te horen kreeg dat ik een onvoldoende had omdat ik niet getest had en de vormgeving er nog niet goed genoeg uit zag ben ik een derde versie gaan maken.
 
 Deze heeft een loading state, blank state en een betere opmaak.
@@ -23,4 +24,13 @@ Deze heeft een loading state, blank state en een betere opmaak.
 
 ![Testpersoon](testpersoon.jpg"Testpersoon")
 
-<img src="tenor-1.gif" alt="test">
+Nadat ik te horen kreeg dat ik een onvoldoende had omdat ik niet getest had en de vormgeving er nog niet goed genoeg uit zag ben ik een derde versie gaan maken. Hier heb ik ook tests gedaan op mijn moeder en mijn zusje. Daar kwam het volgende uit:
+
+Zij konden op een makkelijke manier de trailer bekijken maar hadden allebei behoefte aan meer informatie over de film en dit was er nog niet.
+
+Mijn uiteindelijke versie heeft een korte uitleg over de film en als je op de knop klikt een langere uitleg. Verder heeft deze een mooier uiterlijk en ziet het er overzichtelijker uit.
+
+3. [Versie 3](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v3/)
+
+![Testpersoon](https://raw.githubusercontent.com/joskesambros/frontendvoordesigners/opdracht3/v3/testpersoon.jpg)
+>>>>>>> 8b13c0a6e140c07e424db758486a18967c6ab1e7
