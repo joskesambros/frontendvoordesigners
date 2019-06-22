@@ -14,16 +14,7 @@ Hieronder zijn mijn eerste 2 versies te zien:
 1. [Versie 1](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v1/)
 2. [Versie 2](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v1/Uiteindelijke)
 
-
-
-Nadat ik te horen kreeg dat ik een onvoldoende had omdat ik niet getest had en de vormgeving er nog niet goed genoeg uit zag ben ik een derde versie gaan maken.
-
-Deze heeft een loading state, blank state en een betere opmaak.
-
-3. [Versie 3](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v3/)
-
 ![Testpersoon](testpersoon.jpeg"Testpersoon")
-! [Alt tekst] (testpersoon.jpeg "Label als boven plaatje hovert")
 
 Nadat ik te horen kreeg dat ik een onvoldoende had omdat ik niet getest had en de vormgeving er nog niet goed genoeg uit zag ben ik een derde versie gaan maken. Hier heb ik ook tests gedaan op mijn moeder en mijn zusje. Daar kwam het volgende uit:
 
@@ -33,5 +24,5 @@ Mijn uiteindelijke versie heeft een korte uitleg over de film en als je op de kn
 
 3. [Versie 3](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v3/)
 
-![Testpersoon](/joskesambros/frontendvoordesigners/opdracht3/v3/testpersoon.jpeg)
+
 
