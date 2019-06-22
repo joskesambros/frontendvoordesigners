@@ -23,4 +23,4 @@ Deze heeft een loading state, blank state en een betere opmaak.
 
 ![Testpersoon](testpersoon.jpg"Testpersoon")
 
-<img src="tenor-1.gif" alt="test">
+<img src="joskesambros/frontendvoordesigners/opdracht3/v3/testpersoon.jpg" alt="test">
