@@ -10,12 +10,15 @@ Omdat ik uiteindelijk in tijdsnoods raakte en mijn laptop de dag voor de oplever
 
 Hier heb ik een loader toegevoegd, dit heb ik gedaan doormiddel van een youtube filmpje. Als 2e heb ik de titel van de website groter gemaakt. Helaas is dit niet voldoende, ik was bezig met een div te maken met daarin alle datum omtrent de film maar helaas is dit vanwege tijdsgebrek niet gelukt.
 
+Hieronder zijn mijn eerste 2 versies te zien:
+1. [Versie 1](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v1/)
+2. [Versie 2](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v1/Uiteindelijke)
 
 
-Het vak bestaat uit 3 opdrachten:
+Nadat ik te horen kreeg dat ik een onvoldoende had omdat ik niet getest had en de vormgeving er nog niet goed genoeg uit zag ben ik een derde versie gaan maken.
 
-1. [Opdracht 1](https://joskesambros.github.io/frontendvoordesigners/opdracht1/v1/)
-2. [Opdracht 2](https://joskesambros.github.io/frontendvoordesigners/opdracht2/v1/)
-3. [Opdracht 3](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v1/)
+Deze heeft een loading state, blank state en een betere opmaak.
 
+3. [Versie 3](https://joskesambros.github.io/frontendvoordesigners/opdracht3/v3/)
 
+![Testpersoon](testpersoon.jpeg"Testpersoon")
