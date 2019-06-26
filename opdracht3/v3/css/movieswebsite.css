@@ -147,12 +147,6 @@ button {
     margin-top: 25.8em;
 }
 
-button :hover {
-    transform: translateX(1px);
-    transition: all .75s ease;
-}
-
-
 @media only screen and (min-width: 48em)  {
 
     article {
