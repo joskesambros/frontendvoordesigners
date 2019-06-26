@@ -25,10 +25,10 @@ console.log(alleJson);
         var genreMaken = document.createElement('p');
         var reviewsMaken = document.createElement('p');
         var ActeursMaken = document.createElement('p');
-        var myButton = document.createElement('button');
+        var deButton = document.createElement('button');
         var trailer1 = document.createElement('a');
 
-        myButton.addEventListener('click', function () {
+        deButton.addEventListener('click', function () {
  this.parentElement.querySelector('p').textContent = alleJson[1].plot;
 
         });
@@ -44,7 +44,7 @@ console.log(alleJson);
         artikelMaken.appendChild(genreMaken);
         artikelMaken.appendChild(reviewsMaken);
         artikelMaken.appendChild(ActeursMaken);
-        artikelMaken.appendChild(myButton);
+        artikelMaken.appendChild(deButton);
         artikelMaken.appendChild(trailer1);
 
 
@@ -56,7 +56,7 @@ console.log(alleJson);
         genreMaken.innerHTML = alleJson[i].genres;
         reviewsMaken.innerHTML = alleJson[i].reviews[i].score;
         ActeursMaken.innerHTML = alleJson[i].actors[1].actor_name + ", " + alleJson[i].actors[2].actor_name + ", " + alleJson[i].actors[i].actor_name;
-        myButton.textContent = 'Read more';
+        deButton.textContent = 'Read more';
         trailer1.href = alleJson[i].trailer;
         trailer1.innerHTML = 'Bekijk de trailer';
 
